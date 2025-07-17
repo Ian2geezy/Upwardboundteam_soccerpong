@@ -21,3 +21,7 @@ some professional soccer players we used were ronaldo, messi, suarez, neymar, be
 # what we learned and are most proud of: 
 ian: I learned how make my own game and generate images. I a mostly proud of the home screen and characters we made. 
      Andy: I learned how to code and make my own game. I am most proud of how we added powerups and character selection. 
+
+# Replit link: Click to Play here!!!!
+
+https://replit.com/@ian2geezy777/Pygame-Soccer
