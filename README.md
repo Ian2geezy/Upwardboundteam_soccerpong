@@ -17,7 +17,7 @@ use ur arrow keys and wasd to move around
 <img width="1001" height="531" alt="image" src="https://github.com/user-attachments/assets/85c3fb01-3619-4216-b9b5-978224b0e714" />
 <img width="1001" height="531" alt="image" src="https://github.com/user-attachments/assets/ba7ee630-ab9c-49d0-8fd4-5017893c154f" />
 # credits: 
-ronaldo and messi
+ronaldo, messi, suarez, and neymar. 
 # what we learned and are most proud of: 
 ian: I learned how make my own game and generate images. I a mostly proud of the home screen and characters we made. 
      Andy: I learned how to code and make my own game. I am most proud of how we added powerups and character selection. 
