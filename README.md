@@ -14,9 +14,10 @@ use ur arrow keys and wasd to move around
 #https://replit.com/@ian2geezy777/Pygame-Soccer
 <img width="1001" height="531" alt="image" src="https://github.com/user-attachments/assets/fb6bf7c3-724b-4380-9b4d-11c65a10c27a" />
 <img width="1000" height="524" alt="image" src="https://github.com/user-attachments/assets/b362d112-70e5-48b5-940d-ae441ee76529" />
+<img width="1001" height="531" alt="image" src="https://github.com/user-attachments/assets/ba7ee630-ab9c-49d0-8fd4-5017893c154f" />
 <img width="1001" height="531" alt="image" src="https://github.com/user-attachments/assets/a0800f6b-ede0-43ef-97d1-34a00c44371a" />
 <img width="1001" height="531" alt="image" src="https://github.com/user-attachments/assets/85c3fb01-3619-4216-b9b5-978224b0e714" />
-<img width="1001" height="531" alt="image" src="https://github.com/user-attachments/assets/ba7ee630-ab9c-49d0-8fd4-5017893c154f" />
+
 # credits: 
 some professional soccer players we used were ronaldo, messi, suarez, neymar, bellingham, beckham, ochoa, and mbappe.
 # what we learned and are most proud of: 
